@@ -6,7 +6,7 @@ A module bridging to AppleScript's display notification
 
 	This script is a bridge between PowerShell and the AppleScript Display Notificatin UI primitive. It allows you to send OS notifications from powershell  
   
-	READ THIS PART, BECAUSE DISPLAY NOTIFICATION FROM THE COMMAND LINE IS WIERD AF  
+## READ THIS PART, BECAUSE DISPLAY NOTIFICATION FROM THE COMMAND LINE IS WIERD AF  
   
 		For this to work AT ALL, you have to open Script Editor (not Script Debugger or any other AppleScript tool) and run display notification once. It can be very simple: display notification "test"  
   
